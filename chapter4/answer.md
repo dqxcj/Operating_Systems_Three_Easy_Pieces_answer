@@ -1,8 +1,8 @@
 # 第四章 抽象：进程
 
-[process-run.py](https://github.com/dqxcj/Operating_Systems_Three_Easy_Pieces_answer/chapter4/process-run.py)
+[process-run.py](https://github.com/dqxcj/Operating_Systems_Three_Easy_Pieces_answer/tree/main/chapter4/process-run.py)
 
-[README-process-run](https://github.com/dqxcj/Operating_Systems_Three_Easy_Pieces_answer/chapter4/README-process-run)
+[README-process-run](https://github.com/dqxcj/Operating_Systems_Three_Easy_Pieces_answer/tree/main/chapter4/README-process-run)
 
 ## 1
 CPU利用率为100%。
