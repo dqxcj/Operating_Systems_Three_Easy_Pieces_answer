@@ -1,0 +1,2 @@
+child hello world! (pid: 3525)
+main hello world! (pid: 3525)
