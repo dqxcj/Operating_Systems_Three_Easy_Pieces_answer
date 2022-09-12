@@ -1,0 +1,1 @@
+open("./2_outfile.txt", O_CREAT | O_RDWR);
