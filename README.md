@@ -6,3 +6,5 @@
 ## [第五章 插叙：进程API](https://github.com/dqxcj/Operating_Systems_Three_Easy_Pieces_answer/tree/main/chapter5/answer.md)
 
 ## [第六章 机制：受限直接执行](https://github.com/dqxcj/Operating_Systems_Three_Easy_Pieces_answer/tree/main/chapter6/answer.md)
+
+## [第七章 进程调度：介绍](chapter7/answer.md)
